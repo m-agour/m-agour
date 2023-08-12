@@ -12,8 +12,6 @@
 
 <hr/>
 
-<h4  align="center">I am a Senior at Tanta University pursuing B.E. in Computer Engineering and Automatic Control.</h4>
-
 <br>
 
 <p  align="center">  <img  src="https://komarev.com/ghpvc/?username=m-agour&label=Mohamed's%20Profile%20Views%20&color=dc143c&style=plastic"  alt="m-agour"  />  </p>
