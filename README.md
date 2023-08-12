@@ -14,7 +14,6 @@
 
 <br>
 
-<p  align="center">  <img  src="https://komarev.com/ghpvc/?username=m-agour&label=Mohamed's%20Profile%20Views%20&color=dc143c&style=plastic"  alt="m-agour"  />  </p>
 
 
 <p  align="center"><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=m-agour&theme=algolia"  alt="m-agour"  /></p>
@@ -43,16 +42,5 @@
 </p>
 
 
-
-
-<br/>
-
-## 📊 GitHub Stats 
-
-
-  | <a href="https://github.com/m-agour"><img align="center" src="https://github-readme-stats.vercel.app/api?username=m-agour&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mohamed's github stats" /></a> | <a href="https://github.com/m-agour"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-agour&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
