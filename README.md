@@ -6,7 +6,7 @@
 <!-- <a  href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Machine+learning+Researcher;Always%20learning%20new%20things&center=true&width=1000&height=50&font=georgia&color=F76A27"></a>
  -->
   
-  <a  href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineer;Deep+learning+Researcher;Always%20learning%20new%20things&center=true&width=1000&height=50&font=georgia&color=F76A27"></a>
+  <a  href="https://github.com/DenverCoder1/readme-typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Machine+learning+Researcher;Always%20learning%20new%20things&center=true&width=1000&height=50&font=georgia&color=F76A27"></a>
 
 </p>
 
